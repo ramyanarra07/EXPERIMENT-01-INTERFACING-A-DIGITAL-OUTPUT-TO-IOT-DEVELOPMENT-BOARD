@@ -315,10 +315,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 ```
 
 ## OUTPUT
-<img width="1200" height="1600" alt="WhatsApp Image 2026-04-28 at 4 03 15 PM" src="https://github.com/user-attachments/assets/37e8fd2f-cad0-48ed-b2d0-b60bddf0b500" />
+<img width="367" height="472" alt="image" src="https://github.com/user-attachments/assets/0ac32079-9a00-4453-9e2c-29bd089b2707" />
 
+<img width="382" height="457" alt="image" src="https://github.com/user-attachments/assets/df11ae45-fe71-48d7-8545-128e477bd181" />
 
-<img width="1200" height="1600" alt="WhatsApp Image 2026-04-28 at 4 03 29 PM" src="https://github.com/user-attachments/assets/308c1ff3-7044-48b0-a456-bbac04b25b62" />
 
 ## Result
 

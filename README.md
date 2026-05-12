@@ -539,11 +539,10 @@ void assert_failed(uint8_t *file, uint32_t line)
 <img width="382" height="457" alt="image" src="https://github.com/user-attachments/assets/df11ae45-fe71-48d7-8545-128e477bd181" />
 
 **1B**
-<img width="1200" height="1600" alt="2 IOT IGHT" src="https://github.com/user-attachments/assets/4adb4440-5fbb-46d2-b459-614416b12503" />
+<img width="301" height="281" alt="image" src="https://github.com/user-attachments/assets/aac55c85-18c7-4382-b407-46d8beb46d35" />
 
 
-
-<img width="1200" height="1600" alt="2 IOT NO IGHT" src="https://github.com/user-attachments/assets/92c88dd6-e771-42a8-9a0d-22f70215ddc3" />
+<img width="305" height="316" alt="image" src="https://github.com/user-attachments/assets/6a98b3cb-8269-4d0c-bc5d-97a09c13d194" />
 
 
 
